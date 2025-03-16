@@ -18,7 +18,12 @@ html {
 }
 
 body {
-  margin-bottom: 60px;
+    margin-bottom: 60px;
+    background-color: #12161d;
+    color:white;
+}
+.e-bigger {
+    font-size: x-large;
 }
 
 .form-floating > .form-control-plaintext::placeholder, .form-floating > .form-control::placeholder {

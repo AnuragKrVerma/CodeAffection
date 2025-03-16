@@ -3,16 +3,44 @@
   "WorkspaceRootPath": "C:\\Code\\codes\\C Sharp\\CodeAffection\\Expense Tracker\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FA1B5656-3003-4561-BB25-DA9CBBFA0FC9}|Expense Tracker\\Expense Tracker.csproj|c:\\code\\codes\\c sharp\\codeaffection\\expense tracker\\expense tracker\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA1B5656-3003-4561-BB25-DA9CBBFA0FC9}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FA1B5656-3003-4561-BB25-DA9CBBFA0FC9}|Expense Tracker\\Expense Tracker.csproj|c:\\code\\codes\\c sharp\\codeaffection\\expense tracker\\expense tracker\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FA1B5656-3003-4561-BB25-DA9CBBFA0FC9}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA1B5656-3003-4561-BB25-DA9CBBFA0FC9}|Expense Tracker\\Expense Tracker.csproj|c:\\code\\codes\\c sharp\\codeaffection\\expense tracker\\expense tracker\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FA1B5656-3003-4561-BB25-DA9CBBFA0FC9}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{FA1B5656-3003-4561-BB25-DA9CBBFA0FC9}|Expense Tracker\\Expense Tracker.csproj|c:\\code\\codes\\c sharp\\codeaffection\\expense tracker\\expense tracker\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FA1B5656-3003-4561-BB25-DA9CBBFA0FC9}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA1B5656-3003-4561-BB25-DA9CBBFA0FC9}|Expense Tracker\\Expense Tracker.csproj|c:\\code\\codes\\c sharp\\codeaffection\\expense tracker\\expense tracker\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA1B5656-3003-4561-BB25-DA9CBBFA0FC9}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA1B5656-3003-4561-BB25-DA9CBBFA0FC9}|Expense Tracker\\Expense Tracker.csproj|c:\\code\\codes\\c sharp\\codeaffection\\expense tracker\\expense tracker\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA1B5656-3003-4561-BB25-DA9CBBFA0FC9}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA1B5656-3003-4561-BB25-DA9CBBFA0FC9}|Expense Tracker\\Expense Tracker.csproj|c:\\code\\codes\\c sharp\\codeaffection\\expense tracker\\expense tracker\\views\\category\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA1B5656-3003-4561-BB25-DA9CBBFA0FC9}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\views\\category\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA1B5656-3003-4561-BB25-DA9CBBFA0FC9}|Expense Tracker\\Expense Tracker.csproj|c:\\code\\codes\\c sharp\\codeaffection\\expense tracker\\expense tracker\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA1B5656-3003-4561-BB25-DA9CBBFA0FC9}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA1B5656-3003-4561-BB25-DA9CBBFA0FC9}|Expense Tracker\\Expense Tracker.csproj|c:\\code\\codes\\c sharp\\codeaffection\\expense tracker\\expense tracker\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA1B5656-3003-4561-BB25-DA9CBBFA0FC9}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FA1B5656-3003-4561-BB25-DA9CBBFA0FC9}|Expense Tracker\\Expense Tracker.csproj|c:\\code\\codes\\c sharp\\codeaffection\\expense tracker\\expense tracker\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA1B5656-3003-4561-BB25-DA9CBBFA0FC9}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA1B5656-3003-4561-BB25-DA9CBBFA0FC9}|Expense Tracker\\Expense Tracker.csproj|c:\\code\\codes\\c sharp\\codeaffection\\expense tracker\\expense tracker\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA1B5656-3003-4561-BB25-DA9CBBFA0FC9}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FA1B5656-3003-4561-BB25-DA9CBBFA0FC9}|Expense Tracker\\Expense Tracker.csproj|c:\\code\\codes\\c sharp\\codeaffection\\expense tracker\\expense tracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -29,14 +57,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{FA1B5656-3003-4561-BB25-DA9CBBFA0FC9}|Expense Tracker\\Expense Tracker.csproj|c:\\code\\codes\\c sharp\\codeaffection\\expense tracker\\expense tracker\\repository\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA1B5656-3003-4561-BB25-DA9CBBFA0FC9}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\repository\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA1B5656-3003-4561-BB25-DA9CBBFA0FC9}|Expense Tracker\\Expense Tracker.csproj|c:\\code\\codes\\c sharp\\codeaffection\\expense tracker\\expense tracker\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA1B5656-3003-4561-BB25-DA9CBBFA0FC9}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA1B5656-3003-4561-BB25-DA9CBBFA0FC9}|Expense Tracker\\Expense Tracker.csproj|c:\\code\\codes\\c sharp\\codeaffection\\expense tracker\\expense tracker\\migrations\\20250315115247_initial create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA1B5656-3003-4561-BB25-DA9CBBFA0FC9}|Expense Tracker\\Expense Tracker.csproj|solutionrelative:expense tracker\\migrations\\20250315115247_initial create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,56 +82,111 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Code\\codes\\C Sharp\\CodeAffection\\Expense Tracker\\Expense Tracker\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "Expense Tracker\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Code\\codes\\C Sharp\\CodeAffection\\Expense Tracker\\Expense Tracker\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "Expense Tracker\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-16T12:51:58.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Code\\codes\\C Sharp\\CodeAffection\\Expense Tracker\\Expense Tracker\\Views\\Category\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Expense Tracker\\Views\\Category\\Edit.cshtml",
+              "ToolTip": "C:\\Code\\codes\\C Sharp\\CodeAffection\\Expense Tracker\\Expense Tracker\\Views\\Category\\Edit.cshtml",
+              "RelativeToolTip": "Expense Tracker\\Views\\Category\\Edit.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvyQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-16T12:51:41.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Code\\codes\\C Sharp\\CodeAffection\\Expense Tracker\\Expense Tracker\\Views\\Category\\Details.cshtml",
+              "RelativeDocumentMoniker": "Expense Tracker\\Views\\Category\\Details.cshtml",
+              "ToolTip": "C:\\Code\\codes\\C Sharp\\CodeAffection\\Expense Tracker\\Expense Tracker\\Views\\Category\\Details.cshtml",
+              "RelativeToolTip": "Expense Tracker\\Views\\Category\\Details.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvxoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-16T12:51:23.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Code\\codes\\C Sharp\\CodeAffection\\Expense Tracker\\Expense Tracker\\Views\\Category\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Expense Tracker\\Views\\Category\\Delete.cshtml",
+              "ToolTip": "C:\\Code\\codes\\C Sharp\\CodeAffection\\Expense Tracker\\Expense Tracker\\Views\\Category\\Delete.cshtml",
+              "RelativeToolTip": "Expense Tracker\\Views\\Category\\Delete.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvxkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-16T12:51:09.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Code\\codes\\C Sharp\\CodeAffection\\Expense Tracker\\Expense Tracker\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Expense Tracker\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Code\\codes\\C Sharp\\CodeAffection\\Expense Tracker\\Expense Tracker\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Expense Tracker\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-16T12:44:26.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Code\\codes\\C Sharp\\CodeAffection\\Expense Tracker\\Expense Tracker\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "Expense Tracker\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Code\\codes\\C Sharp\\CodeAffection\\Expense Tracker\\Expense Tracker\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "Expense Tracker\\Views\\Category\\Create.cshtml",
+              "ViewState": "AgIAAAQAAABAAAAAAIApwAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-16T12:35:17.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Code\\codes\\C Sharp\\CodeAffection\\Expense Tracker\\Expense Tracker\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Expense Tracker\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Code\\codes\\C Sharp\\CodeAffection\\Expense Tracker\\Expense Tracker\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Expense Tracker\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAB0AAADgNTMzM7MiwCYAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-15T12:09:37.004Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Code\\codes\\C Sharp\\CodeAffection\\Expense Tracker\\Expense Tracker\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Expense Tracker\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Code\\codes\\C Sharp\\CodeAffection\\Expense Tracker\\Expense Tracker\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Expense Tracker\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-15T12:08:59.126Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "C:\\Code\\codes\\C Sharp\\CodeAffection\\Expense Tracker\\Expense Tracker\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "Expense Tracker\\Controllers\\CategoryController.cs",
               "ToolTip": "C:\\Code\\codes\\C Sharp\\CodeAffection\\Expense Tracker\\Expense Tracker\\Controllers\\CategoryController.cs",
               "RelativeToolTip": "Expense Tracker\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAkGZmZmbmvzAAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-15T11:57:45.772Z"
+              "WhenOpened": "2025-03-15T11:57:45.772Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "20250315115247_Initial Create.cs",
-              "DocumentMoniker": "C:\\Code\\codes\\C Sharp\\CodeAffection\\Expense Tracker\\Expense Tracker\\Migrations\\20250315115247_Initial Create.cs",
-              "RelativeDocumentMoniker": "Expense Tracker\\Migrations\\20250315115247_Initial Create.cs",
-              "ToolTip": "C:\\Code\\codes\\C Sharp\\CodeAffection\\Expense Tracker\\Expense Tracker\\Migrations\\20250315115247_Initial Create.cs",
-              "RelativeToolTip": "Expense Tracker\\Migrations\\20250315115247_Initial Create.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-15T11:52:48.286Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Code\\codes\\C Sharp\\CodeAffection\\Expense Tracker\\Expense Tracker\\appsettings.json",
               "RelativeDocumentMoniker": "Expense Tracker\\appsettings.json",
@@ -123,7 +198,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Code\\codes\\C Sharp\\CodeAffection\\Expense Tracker\\Expense Tracker\\Program.cs",
               "RelativeDocumentMoniker": "Expense Tracker\\Program.cs",
@@ -135,7 +210,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Code\\codes\\C Sharp\\CodeAffection\\Expense Tracker\\Expense Tracker\\Repository\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Expense Tracker\\Repository\\ApplicationDbContext.cs",
@@ -147,7 +222,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "Transaction.cs",
               "DocumentMoniker": "C:\\Code\\codes\\C Sharp\\CodeAffection\\Expense Tracker\\Expense Tracker\\Models\\Transaction.cs",
               "RelativeDocumentMoniker": "Expense Tracker\\Models\\Transaction.cs",
@@ -165,9 +240,22 @@
               "RelativeDocumentMoniker": "Expense Tracker\\Models\\Category.cs",
               "ToolTip": "C:\\Code\\codes\\C Sharp\\CodeAffection\\Expense Tracker\\Expense Tracker\\Models\\Category.cs",
               "RelativeToolTip": "Expense Tracker\\Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-15T09:28:43.715Z"
+              "WhenOpened": "2025-03-15T09:28:43.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Code\\codes\\C Sharp\\CodeAffection\\Expense Tracker\\Expense Tracker\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Expense Tracker\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Code\\codes\\C Sharp\\CodeAffection\\Expense Tracker\\Expense Tracker\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Expense Tracker\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-15T12:08:59.126Z"
             }
           ]
         }
